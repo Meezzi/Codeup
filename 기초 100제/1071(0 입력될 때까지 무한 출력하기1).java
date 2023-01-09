@@ -8,7 +8,7 @@ public class Main {
         int a = Integer.parseInt(st.nextToken());
 
         while(a!=0) {
-            System.out.println(a + " ");
+            System.out.println(a);
             a = Integer.parseInt(st.nextToken());
 
         }
